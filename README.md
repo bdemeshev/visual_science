@@ -1,4 +1,4 @@
-Красивые визуализации
+## Beautiful visualizations
 
 http://setosa.io/
 
@@ -10,7 +10,7 @@ https://www.reddit.com/r/dataisbeautiful/
 
 https://www.reddit.com/r/mathpics/
 
-https://www.reddit.com/r/data_irl/
+https://www.reddit.com/r/data_irl/, Jokes about data visualizations
 
 https://www.visualcapitalist.com
 
@@ -24,16 +24,17 @@ https://experiments.withgoogle.com/collection/arts-culture
 
 https://betterexplained.com/
 
-Отдельные сюжеты:
-
-https://chi-feng.github.io/mcmc-demo/app.html, Визуализация алгоритмов MCMC
+https://chi-feng.github.io/mcmc-demo/app.html, Visualizations of MCMC algorithms.
 
 
+## Mathematics video
 
+http://www.dimensions-math.org/Dim_E.htm
 
-Математические видео
+[3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-Dimensions
+[ThinkTwice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg)
+
 
 
 
