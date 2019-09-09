@@ -30,6 +30,7 @@ https://colah.github.io/, Mostly neural networks, plus some group theory and vis
 
 https://ncase.me/trust/, The evolution of trust: an interactive guide to the game theory.
 
+https://mathigon.org/, Interactive colourful mathematics book.
 
 ## Mathematics video
 
