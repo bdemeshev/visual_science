@@ -32,6 +32,8 @@ https://ncase.me/trust/, The evolution of trust: an interactive guide to the gam
 
 https://mathigon.org/, Interactive colourful mathematics book.
 
+https://tochno.st/, Russian social problems and facts.
+
 ## Mathematics video
 
 http://www.dimensions-math.org/Dim_E.htm, Dimensions
