@@ -36,6 +36,8 @@ https://tochno.st/, Russian social problems and facts.
 
 http://www.r2d3.us/, Trees and bias-variance trade-off, interactive statistics
 
+https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day, Tableau vizualization of the day
+
 ## Mathematics video
 
 http://www.dimensions-math.org/Dim_E.htm, Dimensions
