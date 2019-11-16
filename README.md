@@ -34,6 +34,8 @@ https://mathigon.org/, Interactive colourful mathematics book.
 
 https://tochno.st/, Russian social problems and facts.
 
+http://www.r2d3.us/, Trees and bias-variance trade-off, interactive statistics
+
 ## Mathematics video
 
 http://www.dimensions-math.org/Dim_E.htm, Dimensions
