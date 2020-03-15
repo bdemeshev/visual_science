@@ -38,6 +38,26 @@ http://www.r2d3.us/, Trees and bias-variance trade-off, interactive statistics
 
 https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day, Tableau vizualization of the day
 
+https://practicaltypography.com/, Основы дизайна текстов за несколько часов
+
+https://complex-analysis.com, шикарно оформленная книжка по комплексному анализу
+
+https://www.c82.net/, Nicolas Rourgeux, воссоздание цифровых копий научных книг прошлого. 
+
+https://github.com/jemmybutton/byrne-euclid, начала Евклида в обработке Оливера Бирна
+
+https://www.williamrchase.com/post/flow-fields-12-months-of-art-september/, математическое искусство в R
+
+http://bibviz.com/, противоречия в Библии
+
+https://www.revealthedata.com/
+
+https://gizh.ru, графики и жизнь
+
+http://www.fallen.io/ww2/, Вторая мировая война, число погибших
+
+https://www-huber.embl.de/msmb, Современная статистика для современных биологов
+
 ## Mathematics video
 
 http://www.dimensions-math.org/Dim_E.htm, Dimensions
