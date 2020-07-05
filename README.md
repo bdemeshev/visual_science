@@ -18,7 +18,7 @@ https://pudding.cool
 
 https://www.redblobgames.com/
 
-https://distill.pub/
+https://distill.pub/, Visualizations for neural networks, Why momentum really works? How to use t-SNE effectively?
 
 https://experiments.withgoogle.com/collection/arts-culture
 
@@ -58,15 +58,21 @@ http://www.fallen.io/ww2/, Вторая мировая война, число п
 
 https://www-huber.embl.de/msmb, Современная статистика для современных биологов
 
+https://research.google/teams/brain/pair/, Neural networks, umap
+
 https://rreusser.github.io/explorations/sphere-eversion/, Инверсия сферы по шагам
 
 ## Mathematics video
 
-http://www.dimensions-math.org/Dim_E.htm, Dimensions
+http://www.dimensions-math.org/, Dimensions
 
 [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 [ThinkTwice](https://www.youtube.com/channel/UC9yt3wz-6j19RwD5m5f6HSg)
+
+[Tamas Gorbe](https://www.youtube.com/channel/UCU_Z67g05MlL7J935vXDlhA)
+
+
 
 
 
