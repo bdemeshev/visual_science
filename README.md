@@ -62,6 +62,8 @@ https://research.google/teams/brain/pair/, Neural networks, umap
 
 https://rreusser.github.io/explorations/sphere-eversion/, Инверсия сферы по шагам
 
+https://sunandstuff.com/, множества Жулиа, игра Конвея, алгоритмы машинного обучения, просто куча всего
+
 ## Mathematics video
 
 http://www.dimensions-math.org/, Dimensions
